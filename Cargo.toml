@@ -2,6 +2,9 @@
 name = "matter_proc"
 version = "0.1.0"
 edition = "2021"
+description = "Matter Setup Payload cmdline tools"
+homepage = "https://github.com/Deepdive543443/Matter-Setup-Payload-Rust"
+license = "MIT"
 
 [dependencies]
 verhoeff = "1.0.0"
